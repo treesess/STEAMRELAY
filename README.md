@@ -2,7 +2,7 @@
 
 (Worked cases uploading in progress)
 
-![230820 logo in K](https://github.com/treesess/STEAMRELAY/assets/20311124/d8772221-ba38-4982-a9f5-86a56e27b45d)
+![230820 logo in K - small](https://github.com/treesess/STEAMRELAY/assets/20311124/165b6501-45f4-4860-bd4d-d77afa5a961b)
 
 Versatile and resourceful tech support. 
 
