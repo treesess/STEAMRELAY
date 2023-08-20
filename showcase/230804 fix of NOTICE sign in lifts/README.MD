@@ -8,7 +8,7 @@
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2a54e47c-6ecf-4f5b-8094-bc38db5c4460)
 
-**Figure 1**  Missing letters "T" and "I" were both on coarse marble surface
+**Figure 1**  Missing letters "T" and "I" were both on the coarse marble surface
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/c7e67bea-041f-457c-a3e2-9056207ba01c)
 
