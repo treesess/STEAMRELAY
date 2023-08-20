@@ -30,3 +30,4 @@ And the printing was easy for those parts. Note that flexible material TPU (the 
 
 **Figure 4**  Installed photo
 
+You can see that the sealing is better now and the appearance improves (well, the USB tags need to change to zip tie to look better...). 
