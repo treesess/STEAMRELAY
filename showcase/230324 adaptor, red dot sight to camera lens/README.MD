@@ -1,4 +1,4 @@
-**Case cause:** To make street snaps using DSLR more convenient, easier and better view finding. 
+**Case cause:** To make street snaps using DSLR more convenient, easier, and better view finding. 
 
 **Type:** Specific, functional object FDM design
 
