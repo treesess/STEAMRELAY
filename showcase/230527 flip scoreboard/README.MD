@@ -4,7 +4,7 @@
 
 **Difficulty:** Easy
 
-**Descriptions:** A flip scoreboard serves a simple function and is constructed by a simple stand and the number plates from 0 to 9. At that time no ideal model was found online while buying one had other problems (e.g., paperwork, style, etc.). Considering designing one only cost 30 minutes tops, why not just do it by self and happy printing. 
+**Descriptions:** A flip scoreboard serves a simple function and is constructed by a simple stand and the number plates from 0 to 9. At that time no ideal model was found online while buying one had other problems (e.g., paperwork, style, etc.). Considering designing one only costs 30 minutes tops, why not just do it by yourself and happy printing. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/815796a0-87d5-4009-8a59-61d748b2fde9)
 
