@@ -10,7 +10,7 @@
 
 **Figure 1**  Broken part
 
-This case is a typical replica one. By simply measureing the demensions of the broken part and draw it by CAD software then do the print. 
+This case is a typical replica one. By simply measuring the dimensions of the broken part and drawing it with CAD software then do the print. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3fb15906-7c7d-4e5c-9fbf-ff6f0a8c5ab1)
 
