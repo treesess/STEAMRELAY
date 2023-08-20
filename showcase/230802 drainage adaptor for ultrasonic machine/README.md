@@ -47,3 +47,11 @@ No post-process is needed in this case.
 
 Thread seal tape was applied to the valve end. For the other end, just plug in. And done. 
 
+-----
+
+Also, there were other plumber adaptors made by FDM and successfully installed and worked well. 
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/be778c77-bf31-4206-9cb5-dbb9f01ac21f)
+
+**Figure 6**  Another drainage adaptor for curing tank
+
