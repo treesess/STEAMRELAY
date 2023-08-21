@@ -26,8 +26,8 @@ The design was not complicated, just one hole cover and a tray to mount the USB 
 
 And the printing was easy for those parts. Note that flexible material TPU (the white cylindrical part) was used for better sealing. 
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/312124b1-902a-409e-a855-b13b3d449251)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0c892d0f-de2d-43ad-9943-0d71e455f60b)
 
 **Figure 4**  Installed photo
 
-You can see that the sealing is better now and the appearance improves (well, the USB tags need to change to zip tie to look better...). 
+You can see that the sealing is better now and the appearance improves (well, the USB tags need to change to zip tie to look better). 
