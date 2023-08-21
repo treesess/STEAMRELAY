@@ -16,6 +16,6 @@ This case is a typical replica one. By simply measuring the dimensions of the br
 
 **Figure 2**  Rebuild in CAD
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0002c953-1b97-46d1-bb5c-d76416b29bb6)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/c7ead240-9f17-4866-8dac-cafe6eb72985)
 
 **Figure 3** Printed and installed
