@@ -29,7 +29,7 @@ Versatile and resourceful tech support for educational STEAM purposes as well as
 |fdm4	| CR10s Pro (second-hand, modifying)		| slow	| -		| 300x300x350	| upgrading		|
 |fdm5	| VORON 2.4r2 (DIY, V2.5343)			| fast	| 9/10		| 350x350x340	| 🟢 ready		|
 |fdm6	| VORON 0.2 (DIY)				| fast	| 7/10		| 120x120x120	| 🟢 ready		|
-|fdm7	| VORON 2.4r2 (DIY)				| fast	| -		| 300x300x300	| building		|
+|fdm7	| VORON 2.4r2 (DIY)				| fast	| 9/10		| 300x300x300	| 🟢 ready 	|
 
 ### Machinery for Woodworking, metalworking, etc.
 
