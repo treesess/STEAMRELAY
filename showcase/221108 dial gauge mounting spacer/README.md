@@ -17,6 +17,6 @@
 
 **Figure 2**  Printed one
 
-Flange was added to prevent it from falling when the loosing the clamp. 
+A flange was added to prevent it from falling when loosening the clamp. 
 
 Turned out it fitted perfectly and the problem was solved in only 30 minutes. Without FDM this case won't be so nicely done. I would probably try some tapes to fill that gap, which must be unreliable and ugly.
