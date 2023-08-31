@@ -20,12 +20,17 @@ Firstly, the protrusions were made into handlers as shown below. The design is a
 
 **Figure 2**  Tailor-made handlers
 
-And also the extruded stands were protected by TPU (flexible material) printed covers (sorry forgot the photo).
+And also the extruded stands were protected by TPU (flexible material) printed covers.
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/a4197a1d-1b97-4a89-aa8a-499d8301fea7)
+
+**Figure 3**  TPU covers to avoid collision damage
+
 
 Secondly, spare wooden plates were found in the storage room and cut into exact sizes and shapes to make the shelves. Only the top and bottom were done since the plan is to make some tool carriers and filament storage in the middle. The plan also includes putting three VORON printers on the top layer. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/dde451c3-54d2-464c-87a0-f5b3e9f052eb)
 
-**Figure 3**  Wood plate shelves
+**Figure 4**  Wood plate shelves
 
 After what s done, it is already capable of serving. Still, i wish to see its potential fully developed since i like scavenging and recycling. 
