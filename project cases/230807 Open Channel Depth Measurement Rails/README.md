@@ -6,7 +6,7 @@
 
 **Description:** 
 
-The project is still ongoing and halfway through at the moment. 
+The project is basically done at the moment. All that needs is detailed calibration which will be done after the other part of the open channel is finished. 
 
 Considering the long span (2000x500 mm), 2020 v-slot aluminum extrusions were adopted with rollers to save expenses. 
 
@@ -16,7 +16,7 @@ Considering the long span (2000x500 mm), 2020 v-slot aluminum extrusions were ad
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/979a9029-dfa4-44b6-bb93-208bc9140289)
 
-**Figure 2** X carriage and manual depth caliper mounting with levelling design
+**Figure 2** X carriage and manual depth caliper mounting with leveling design
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0fe51c03-c67c-48ec-bbcd-4dc8c41b19bc)
 
@@ -26,4 +26,12 @@ Considering the long span (2000x500 mm), 2020 v-slot aluminum extrusions were ad
 
 **Figure 4** Prototyping and feasibility test of caliper mounting
 
-So far this design looks robust and feasible. Another feature of STEAM RELAY is low cost... 
+This design is robust. The stiffness is proven quite enough. And the x carriage is capable of doing very fine calibration to make sure the depth caliper can read the correct results. 
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2cb40989-84ea-4b5b-af1a-092a71b90925)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/a91b4fcb-d593-408b-a3dc-7ba5dc3d7b11)
+
+**Figure 5** Finish of two depth calipers
+
+
+By the way, another feature of STEAM RELAY is low cost... 
