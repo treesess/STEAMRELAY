@@ -59,6 +59,9 @@ And for the A in STEAM, i'd be glad to introduce you to English Caligraphy (Copp
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/8bef53f1-d28a-416c-8c90-7b25cbf9ae96)
 
+Then perhaps make your dear friend a card:
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/711903a1-c24c-4952-a176-7b35b801e0ac)
 
 
 
