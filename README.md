@@ -21,17 +21,25 @@ In my recognition, this fits the purpose of STEAM so well.
 
 - We can use FDM to make our favorite doll:
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/d2818d66-2b04-4ac5-b65f-ca7e2653fa29)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3e278475-41f8-48be-87ed-4808eeeddec2)
 
 - We can use FDM to make functional stuff :
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b6cdf986-54c3-4cda-b0cd-a12e70f30800)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2582d85f-df80-4e58-a42d-037d45dda3a8)
 
 - We can design precision tools based on FDM: 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/49deae78-4ca5-4d98-86fb-cf5370c6eefe)
 
+- And make a logo:
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3d61ffeb-5ce5-4831-9184-1a11796a9a63)
+
+
 FDM enlightened my life and realized many of my small dreams. This feeling is so soooo STEAM. 
+
+
+
 
 ----
 
