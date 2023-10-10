@@ -4,7 +4,7 @@
 
 **Difficulty:** Middle. 
 
-**Description:** The first version was done a year ago as shown in the photo below. 
+**Description:** The first version was done a year ago as shown in the photo below. That's when I started to learn how to use Fusion 360 and using old i3 printers to make. To make it real as soon, two printers were printing at the same time that's why the color of parts differed. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/a28a2789-d183-498b-90f2-ab145498d85a)
 
