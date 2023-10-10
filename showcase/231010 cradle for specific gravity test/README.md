@@ -18,11 +18,11 @@ It worked well but the design was a bit rough (i.e., ugly).
 
 So when it got rusty this year I decided to redo it with less steel but more water-resilient material like TPU. Meanwhile, I wanted to make the wiring a bit more elegant, like version 2 shown below: 
 
-% missing photo
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/d66743ab-537a-4302-a1ee-f45009bc3631)
 
 **Figure 3** Version 2 of cradle
 
-There was only one continuous TPU filament going through all the connection points. Looked smart but sadly doesn't work at all since I can never adjust the length to a functional degree. 
+There was only one single continuous TPU filament going through all the connection points. This version Looked smart (and over-engineering) but sadly doesn't work at all since I can never adjust the length to a functional degree and also because the filament won't get even tension as I expected. 
 
 Then I cut off the filament into 4 and made the below version 3: 
 
