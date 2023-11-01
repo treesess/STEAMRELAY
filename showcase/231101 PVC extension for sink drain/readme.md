@@ -1,6 +1,6 @@
 This is not a real good idea. It's just an option when you don't have plumber tools. 
 
-The objective is simple: the cut PVC pipe is not long enough to reach the U under a sink. 
+The objective is simple: the cut PVC pipe was not long enough to reach the U under a sink. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/70440b43-a631-4330-9402-04cda47ac720)
 
