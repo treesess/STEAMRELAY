@@ -18,7 +18,12 @@ To make sure this extension pipe can connect with the cut edge without leaking, 
 
 **Figure 3** section view of connecting part
 
-Note that it is not easy to print something tall and thin by FDM so be sure you try the best to get bed adhesion to prevent the model from falling during the print. 
+Note that it is not easy to print something tall and thin by FDM so be sure you try the best to get bed adhesion to prevent the model from falling during the print. If it does fall, don't throw it away, you can slice again and print the cylinder shell to the length you need and than use a soldering iron to connect your prints (i know, this looks stupid, but worked). 
 
-And this is actually not a very economic way to fix the problem since it would cost a long printing time and use long filament. Try the cheap filament for this. 
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/c0c1ca1f-7552-47fd-8893-773700712de4)
+
+**Figure 4** Finished work and tested with zero leakage
+
+And, this is actually not a very economic way to fix the problem since it would cost a long printing time and use long filament. Try the cheap filament for this. 
+
 
