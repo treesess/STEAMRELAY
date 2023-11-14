@@ -5,11 +5,13 @@
 
 *(Worked cases uploading in progress)*
 
+
+
 ----
 
 ## Introduction 
 
-Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. 
+Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. Service provided by Technician Martha and Technician Ronald.
 
 i started with some traditional lightweight woodworking and metalworking as i want to be able to manufacture and make ideas real. After i bought my first Ender3V2, i was fully concentrated on FDM since this handy CNC  is such low-cost and accessible to everyone. Heating the plastic and your imagination is the limit. 
 
