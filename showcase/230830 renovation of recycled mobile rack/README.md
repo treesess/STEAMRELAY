@@ -34,3 +34,12 @@ Secondly, spare wooden plates were found in the storage room and cut into exact 
 **Figure 4**  Wood plate shelves
 
 After what s done, it is already capable of serving. Still, i wish to see its potential fully developed since i like scavenging and recycling. 
+
+
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/02fd0af2-700d-4838-9985-a38bd0403c54)
+
+**Figure 5** Later on all Mobile Shelves (MS) started to be number and labelled. 
+
+
+
