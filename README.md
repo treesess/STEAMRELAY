@@ -33,9 +33,9 @@ In my recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/49deae78-4ca5-4d98-86fb-cf5370c6eefe)
 
-- And make a logo:
+- And make a logo and card:
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3d61ffeb-5ce5-4831-9184-1a11796a9a63)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/f3c1121a-3660-4e38-ad9c-7b3e067fbe4a)
 
 
 FDM enlightened my life and realized many of my small dreams. This feeling is so soooo STEAM. 
