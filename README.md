@@ -13,11 +13,11 @@
 
 Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. Service provided by Technician Martha and Technician Ronald.
 
-i started with some traditional lightweight woodworking and metalworking as i want to be able to manufacture and make ideas real. After i bought my first Ender3V2, i was fully concentrated on FDM since this handy CNC  is such low-cost and accessible to everyone. Heating the plastic and your imagination is the limit. 
+Martha started with some traditional lightweight woodworking and metalworking as she wanted to be able to manufacture and make ideas real. After she bought her first Ender3V2, she was fully concentrated on FDM since this handy CNC is such low-cost and accessible to everyone. Heating the plastic and your imagination is the limit. 
 
-In my recognition, this fits the purpose of STEAM so well. 
+In our recognition, this fits the purpose of STEAM so well. 
 
-- We can use 3D printing pen to draw cute ornaments: 
+- We can use a 3D printing pen to draw cute ornaments: 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/d4bd7029-b759-4321-a6e3-0c08feb5a99a)
 
@@ -79,7 +79,7 @@ Sometimes, we just simply enjoy seeing it printing and/or printed.
 
 
 
-
+Not only we are capable of FDM 3D printing, Technician Ronald also can provide powerful CNC to enlarge our manufacturing capacity. 
 
 
 
@@ -100,7 +100,7 @@ Sometimes, we just simply enjoy seeing it printing and/or printed.
 
 ----
 
-And there are more than FDM that i would like to promote: 
+And there are more than FDM that Martha would like to promote: 
 
 - Dried flower:
 
@@ -117,7 +117,7 @@ And there are more than FDM that i would like to promote:
 
 When talking about getting hands dirty, being close to nature is the same as STEAM. 
 
-And for the A in STEAM, i'd be glad to introduce you to English Caligraphy (Copperplate) if you are interested: 
+And for the "A" in STEAM, Martha would be glad to introduce you to English Caligraphy (Copperplate) if you are interested: 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/8bef53f1-d28a-416c-8c90-7b25cbf9ae96)
 
@@ -131,7 +131,7 @@ Then perhaps make your dear friend a card:
 
 All these made me decide to do something to get more people around me to see how could FDM 3D printing make a difference in our lives today and, get your hands dirty, get STEAM. 
 
-At last, my appreciation to the [VORON DESIGN Team](https://www.vorondesign.com/). I am still wearing my first Voron Cube print every day! 
+At last, my appreciation to the [VORON DESIGN Team](https://www.vorondesign.com/). Martha is still wearing my first Voron Cube print every day! 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/f3f91116-ed07-4a0a-a179-5162a81cc4cb)
 
