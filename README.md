@@ -25,6 +25,11 @@ In my recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3e278475-41f8-48be-87ed-4808eeeddec2)
 
+- We can print pretty designs from the community and play around like a kid:
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/87409efd-40fa-4f82-9dc9-199de727e570)
+
+
 - We can use FDM to make functional stuff :
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2582d85f-df80-4e58-a42d-037d45dda3a8)
@@ -32,6 +37,11 @@ In my recognition, this fits the purpose of STEAM so well.
 - We can design precision tools based on FDM: 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/49deae78-4ca5-4d98-86fb-cf5370c6eefe)
+
+- We can use one printer to keep making another printer (VORON PIF, Print It Forward)
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b7cb613a-3498-47b1-ad54-b8c04fdd7dac)
+
 
 - And make a logo and card:
 
@@ -53,7 +63,12 @@ And there are more than FDM that i would like to promote:
 
 - Insect collection:
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/5f02d637-e123-4fe9-946f-6468466399e9)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0db64400-f06b-4b3e-bf7c-1701b8712091)
+
+
+
+
+
 
 When talking about getting hands dirty, being close to nature is the same as STEAM. 
 
