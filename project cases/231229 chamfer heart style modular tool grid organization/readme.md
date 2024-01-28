@@ -32,6 +32,13 @@ Then came the idea of a universal hanger as a base (just similar to the Honeycom
 
 **Figure 5**  CAD view on the grid
 
+
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/a0548f6f-ce3f-4a7b-83fa-c179e294e8ee)
+
+
+**Figure 6**  Printed and installed one
+
 If you look carefully, you will find that Martha didn't intentionally design this look like a heart shape. On the contrary, Martha considered figuring out the best shape to provide the most fitness and stiffness with the least filament consumption. 
 
 
