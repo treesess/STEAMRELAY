@@ -191,7 +191,7 @@ Martha is obsessed with the Apocynaceae family (夾竹桃科). At this stage hoy
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/df4d2a09-e9ea-4b5a-9923-d5eff9f9ccd0)
 
-They are around us in the city and blooming sweet. Adenium obesum, Allamanda cathartica, Allamanda schottii (黃嬋)， Catharanthus roseus (長春花), Nerium oleander (夾竹桃), Plumeria rubra (雞蛋花), Star jasmine (絡石), Pinwheel flower (山馬茶/狗牙花), and so on. More or less, they may have enlightened your life now and then. 
+They are around us in the city and blooming sweet. Adenium obesum, Allamanda cathartica, Allamanda schottii (黃嬋), Catharanthus roseus (長春花), Nerium oleander (夾竹桃), Plumeria rubra (雞蛋花), Star jasmine (絡石), Pinwheel flower (山馬茶/狗牙花), and so on. More or less, they may have enlightened your life now and then. 
 
 There are also pretty many fascinating plants. Sometimes, with an FDM printed vase, we can make something a bit new. 
 
