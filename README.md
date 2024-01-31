@@ -24,6 +24,8 @@ In our recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/d4bd7029-b759-4321-a6e3-0c08feb5a99a)
 
+
+
 - We can use FDM to make our favorite doll:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0e675824-1d8e-4da7-a867-fa2a7b12795c)
@@ -36,6 +38,15 @@ In our recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/20fddca0-c092-4b7a-8437-30ec7420ccf5)
 
+
+- We can print famous building miniatures:
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6a8ca4f7-c501-479b-a9e8-38c69107e826)
+
+
+- We can print an interesting structural demo:
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/cb168c73-379e-4227-933a-e0a094b5b48f)
 
 - We can print playful toys from the Internet and play with them like a kid:
 
@@ -163,12 +174,23 @@ Then perhaps make your dear friend a card:
 
 ## 2  Plants and plant foto taking
 
+### 2.1 Apocynaceae
 
 Martha is obsessed with plants, especially the Apocynaceae family (夾竹桃科). At this stage, hoya carnosa is the thriving one in her place. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/df4d2a09-e9ea-4b5a-9923-d5eff9f9ccd0)
 
+When hoya bloomed, with its velvet petals and sweet nectar, it could be a gift for your beloved. 
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/4e1a85fb-0339-4f23-89e7-122c48be2f95)
+
+
 They are around us in the city and blooming sweet. Adenium obesum, Allamanda cathartica, Allamanda schottii (黃嬋), Catharanthus roseus (長春花), Nerium oleander (夾竹桃), Plumeria rubra (雞蛋花), Star jasmine (絡石), Pinwheel flower (山馬茶/狗牙花), and so on. More or less, they may have enlightened your life now and then. 
+
+
+
+
+### 2.2 More plants
 
 Sorry that her enthusiasm for Apocynaceae may be bits of biased to you. There are also pretty many other fascinating plants. You can always find your way to take care of them in your unique way:
 
