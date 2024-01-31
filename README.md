@@ -181,7 +181,10 @@ When hoya bloomed, with its velvet petals and sweet nectar, it could be a gift f
 
 They are around us in the city and blooming sweet. Adenium obesum, Allamanda cathartica, Allamanda schottii (黃嬋), Catharanthus roseus (長春花), Nerium oleander (夾竹桃), Plumeria rubra (雞蛋花), Star jasmine (絡石), Pinwheel flower (山馬茶/狗牙花), and so on. More or less, they may have enlightened your life now and then. 
 
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3c3a9477-fd75-46f8-b2e6-d80dbcebb4ea)
 
+
+Of course, white oleander can't be missed. 
 
 
 ### 2.2 More plants
