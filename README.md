@@ -3,12 +3,6 @@
 ![240129 relay logo - small](https://github.com/treesess/STEAMRELAY/assets/20311124/04cea634-9b51-429f-aac5-613c085bc82e)
 
 
-*(Worked cases uploading in progress)*
-
-
-
-----
-
 ## 1  Introduction 
 
 Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. Service provided by Technician Martha and Technician Ronald.
