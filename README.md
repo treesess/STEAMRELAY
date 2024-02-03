@@ -1,4 +1,4 @@
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6e823db0-53b9-4df4-9084-53b5a4244a09)# STEAM RELAY
+# STEAM RELAY
 
 ![240129 relay logo - small](https://github.com/treesess/STEAMRELAY/assets/20311124/04cea634-9b51-429f-aac5-613c085bc82e)
 
