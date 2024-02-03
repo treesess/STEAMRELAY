@@ -1,7 +1,8 @@
-# STEAM RELAY
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6e823db0-53b9-4df4-9084-53b5a4244a09)# STEAM RELAY
 
 ![240129 relay logo - small](https://github.com/treesess/STEAMRELAY/assets/20311124/04cea634-9b51-429f-aac5-613c085bc82e)
 
+*(More content sorting and uploading in progress)*
 
 ## 1  Introduction 
 
@@ -39,11 +40,11 @@ In our recognition, this fits the purpose of STEAM so well.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6a8ca4f7-c501-479b-a9e8-38c69107e826)
 
 
-- We can print an interesting structural demo:
+- We can print an interesting grid shell structure ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/architecture/hypar-gridshell)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/cb168c73-379e-4227-933a-e0a094b5b48f)
 
-- We can print playful toys from the Internet and play with them like a kid:
+- We can print playful toys from the Internet and play with them like a kid (Models from Internet):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2e0432f1-b217-45a7-8f78-7169fb2e1309)
 
