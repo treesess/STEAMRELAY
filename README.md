@@ -20,20 +20,21 @@ In our recognition, this fits the purpose of STEAM so well.
 
 
 
-- We can use FDM to make our favorite doll:
+- We can use FDM to make our favorite doll ([Model by JIMMY_IW](https://cults3d.com/en/3d-model/game/ghost-in-the-shell-tachikoma)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0e675824-1d8e-4da7-a867-fa2a7b12795c)
 
-- We can print elegant reindeer for Christmas:
+- We can print elegant reindeer for Christmas ([Model by yeg3d](https://www.thingiverse.com/thing:571949)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/843dc1f1-6ff0-4980-99ac-11429f95c7f7)
 
-- Also other Christmas ornaments:
+
+- Also other Christmas ornaments([Model by Bemko](https://www.thingiverse.com/thing:4678220)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/20fddca0-c092-4b7a-8437-30ec7420ccf5)
 
 
-- We can print famous building miniatures:
+- We can print Sydney Opera House miniatures ([Model by QELORLISS](https://cults3d.com/en/3d-model/tool/sydney-opera-house)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6a8ca4f7-c501-479b-a9e8-38c69107e826)
 
@@ -60,7 +61,7 @@ In our recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/39d95d20-6939-4689-8fe9-f03711402df6)
 
-- We can use one printer to keep making another printer (VORON PIF, Print It Forward): 
+- We can use one printer to keep making another printer (the print in the photo below is [VORON Toolhead Stealth Burner](https://vorondesign.com/voron_stealthburner)): 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b7cb613a-3498-47b1-ad54-b8c04fdd7dac)
 
@@ -71,7 +72,7 @@ In our recognition, this fits the purpose of STEAM so well.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/860b6744-3cdc-45b2-9352-41897906d9fc)
 
 
-- And make a low-cost shake table! (see project vShaker, ft. Ronald Lee)
+- And make a low-cost shake table! (see project vShaker, ft. Ronald Lee. Based on [Klipper](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
   
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0d8a56ec-94ef-4263-8294-83cc33d35536)
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/48728963-3c3e-4d20-9c1a-dadd21a69558)
