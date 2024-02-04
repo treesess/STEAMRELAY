@@ -39,6 +39,13 @@ Then came the idea of a universal hanger as a base (just similar to the Honeycom
 
 **Figure 6**  Printed and installed one
 
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/05197bd6-3f0c-43c4-a855-47844b3ca3e7)
+
+**Figure 7**  Lots of modules including DIY HEPA12 air purifiers using recycled fans have been installed based on this plan
+
+
+
 If you look carefully, you will find that Martha didn't intentionally design this look like a heart shape. On the contrary, Martha considered figuring out the best shape to provide the most fitness and stiffness with the least filament consumption. 
 
 
