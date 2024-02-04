@@ -47,16 +47,27 @@ In the beginning, simple vase-mode printed TPU cylinders were used as wheels. Bu
 
 **Figure 6** The made explained
 
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b858253b-5f52-48c5-bfed-fb181ac88550)
+
+**Figure 7** Bridging as support when printing
+
+Note that you cannot print directly on the steel surfaces of the bearing, because the plastic will not stick to it. Therefore you have to make it in bridging mode to make one layer of support for the above layers. 
+
+
+
+
+
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/a7f73562-94e4-4db8-9b3d-2a39fcf82084)
 
-**Figure 7** Mechanical part finished and running well
+**Figure 8** Mechanical part finished and running well
 
 
 Also to make the installation easier, simple tools for alignment were printed and worked very well. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/c25c3d33-a98a-4901-9cc4-67b029a19693)
 
-**Figure 8** Quick alignment tools
+**Figure 9** Quick alignment tools
 
 
 
