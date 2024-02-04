@@ -52,16 +52,16 @@ In our recognition, this fits the purpose of STEAM so well.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2e0432f1-b217-45a7-8f78-7169fb2e1309)
 
 
-- We can make quick tools for alignment and make the installation work much faster and more precise:
+- We can make quick tools for alignment and make the installation work much faster and more precise (Model and made by Martha):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/ae827adb-d76b-4828-964d-93147e73373f)
 
 
-- We can use FDM to make functional stuff :
+- We can use FDM to make functional stuff (Model and made by Martha):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/70ea9451-08e2-4059-8176-a4c518cd393c)
 
-- We can design precision tools based on FDM: 
+- We can design precision tools based on FDM (Model and made by Martha): 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/39d95d20-6939-4689-8fe9-f03711402df6)
 
@@ -70,19 +70,19 @@ In our recognition, this fits the purpose of STEAM so well.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b7cb613a-3498-47b1-ad54-b8c04fdd7dac)
 
 
-- We can design and make a highly customized adaptor to enable red dot sight on cameral (Model by Martha):
+- We can design and make a highly customized adaptor to enable red dot sight on cameral (Model and made by Martha):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/fe26c84c-95ec-466e-a6d3-28191f3a6670)
 
  
 
-- And make a logo and cards:
+- And make our own logo and cards:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3cd1f78e-1683-40ab-9794-ff8d9d4d8d30)
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/860b6744-3cdc-45b2-9352-41897906d9fc)
 
 
-- And make a low-cost shake table! (see project vShaker, ft. Ronald Lee. Based on [Klipper](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
+- And make a low-cost shake table! (see project vShaker, by Martha ft. Ronald Lee. Based on [Klipper](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
   
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0d8a56ec-94ef-4263-8294-83cc33d35536)
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/48728963-3c3e-4d20-9c1a-dadd21a69558)
