@@ -78,8 +78,8 @@ In our recognition, this fits the purpose of STEAM so well.
 
 - And make our own logo and cards:
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3cd1f78e-1683-40ab-9794-ff8d9d4d8d30)
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/860b6744-3cdc-45b2-9352-41897906d9fc)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/c014cb63-e4c3-4bf1-beca-bf39230776e4)
+
 
 
 - And make a low-cost shake table! (see project vShaker, by Martha ft. Ronald Lee. Based on [Klipper](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
