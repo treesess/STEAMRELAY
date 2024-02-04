@@ -39,6 +39,9 @@ In our recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6a8ca4f7-c501-479b-a9e8-38c69107e826)
 
+- We can print intriguing artistic "tensegrity" structure ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/art/tensegrity-arc)):
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/1c3cf493-99cb-4cb9-b429-65237e833994)
 
 - We can print an interesting grid shell structure ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/architecture/hypar-gridshell)):
 
@@ -67,6 +70,12 @@ In our recognition, this fits the purpose of STEAM so well.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b7cb613a-3498-47b1-ad54-b8c04fdd7dac)
 
 
+- We can design and make a highly customized adaptor to enable red dot sight on cameral (Model by Martha):
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/fe26c84c-95ec-466e-a6d3-28191f3a6670)
+
+ 
+
 - And make a logo and cards:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/3cd1f78e-1683-40ab-9794-ff8d9d4d8d30)
@@ -92,7 +101,7 @@ Sometimes, we just simply enjoy seeing it printing and/or printed.
 
 
 
-Not only we are capable of FDM 3D printing, Technician Ronald also can provide powerful CNC to enlarge our manufacturing capacity. 
+Not only we are capable of FDM 3D design and printing, Technician Ronald also can provide powerful CNC to enlarge our manufacturing capacity. 
 
 All these made me decide to do something to get more people around me to see how could FDM 3D printing make a difference in our lives today and, get your hands dirty, get STEAM. 
 
@@ -196,11 +205,6 @@ Sorry that her enthusiasm for Apocynaceae may be bits of biased to you. There ar
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/752ef582-47d2-4687-8565-a7340334bc3a)
 
 
-
-
-Sometimes, with an FDM-printed vase, we can make some new combinations: 
-
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/ae64f806-6997-4c76-858b-6ff3940f3170)
 
 In case you want to have an image taken from your lovely plants, we can also offer high-quality camera and lens and photo-taking skills to help you keep the beautiful moment forever. 
 
