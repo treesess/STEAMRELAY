@@ -15,17 +15,17 @@ Martha started with some traditional lightweight woodworking and metalworking as
 
 In our recognition, this fits the purpose of STEAM so well. 
 
-- We can use a 3D printing pen to draw cute ornaments: 
+- We used a 3D printing pen to draw cute ornaments: 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/d4bd7029-b759-4321-a6e3-0c08feb5a99a)
 
 
 
-- We can use FDM to make our favorite doll ([Model by JIMMY_IW](https://cults3d.com/en/3d-model/game/ghost-in-the-shell-tachikoma)):
+- We used FDM to make our favorite doll ([Model by JIMMY_IW](https://cults3d.com/en/3d-model/game/ghost-in-the-shell-tachikoma)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0e675824-1d8e-4da7-a867-fa2a7b12795c)
 
-- We can print elegant reindeer for Christmas ([Model by yeg3d](https://www.thingiverse.com/thing:571949)):
+- We printed elegant reindeer for Christmas ([Model by yeg3d](https://www.thingiverse.com/thing:571949)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/843dc1f1-6ff0-4980-99ac-11429f95c7f7)
 
@@ -35,59 +35,59 @@ In our recognition, this fits the purpose of STEAM so well.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/20fddca0-c092-4b7a-8437-30ec7420ccf5)
 
 
-- We can print Sydney Opera House miniatures ([Model by QELORLISS](https://cults3d.com/en/3d-model/tool/sydney-opera-house)):
+- We printed Sydney Opera House miniatures ([Model by QELORLISS](https://cults3d.com/en/3d-model/tool/sydney-opera-house)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6a8ca4f7-c501-479b-a9e8-38c69107e826)
 
-- We can print intriguing artistic "tensegrity" structure ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/art/tensegrity-arc)):
+- We printed intriguing artistic "tensegrity" structures ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/art/tensegrity-arc)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/1c3cf493-99cb-4cb9-b429-65237e833994)
 
-- We can print an interesting grid shell structure ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/architecture/hypar-gridshell)):
+- We printed an interesting grid shell structure ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/architecture/hypar-gridshell)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/cb168c73-379e-4227-933a-e0a094b5b48f)
 
-- We can print playful toys from the Internet and play with them like a kid (Models from Internet):
+- We printed playful toys from the Internet and played with them like a kid:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2e0432f1-b217-45a7-8f78-7169fb2e1309)
 
 
-- We can make quick tools for alignment and make the installation work much faster and more precise (Model and made by Martha):
+- We made quick tools for alignment and made the installation work much faster and more precise:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/ae827adb-d76b-4828-964d-93147e73373f)
 
 
-- We can use FDM to make functional stuff (Model and made by Martha):
+- We used FDM to make functional stuff:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/70ea9451-08e2-4059-8176-a4c518cd393c)
 
-- We can design precision tools based on FDM (Model and made by Martha): 
+- We designed precision tools based on FDM: 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/39d95d20-6939-4689-8fe9-f03711402df6)
 
-- We can use one printer to keep making another printer (the print in the photo below is [VORON Toolhead Stealth Burner](https://vorondesign.com/voron_stealthburner)): 
+- We used one printer to keep making another printer (the print in the photo below is [VORON Toolhead Stealth Burner](https://vorondesign.com/voron_stealthburner)): 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b7cb613a-3498-47b1-ad54-b8c04fdd7dac)
 
 
-- We can design and make a highly customized adaptor to enable red dot sight on cameral (Model and made by Martha):
+- We designed and made a highly customized adaptor to enable red dot sight on camera:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/fe26c84c-95ec-466e-a6d3-28191f3a6670)
 
  
 
-- And make our own logo and cards:
+- And made our own logo and cards:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/c014cb63-e4c3-4bf1-beca-bf39230776e4)
 
 
 
-- And make a low-cost shake table! (see project vShaker, by Martha ft. Ronald Lee. Based on [Klipper](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
+- And designed and made a low-cost shake table! (see project vShaker, by Martha ft. Ronald Lee. Based on [Klipper](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
   
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0d8a56ec-94ef-4263-8294-83cc33d35536)
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/48728963-3c3e-4d20-9c1a-dadd21a69558)
 
-- And even an extended one for holding taster programmes for students to learn while playing with the earthquake simulation. Six groups of students shake together! 
+- And even an extended one for holding taster programmes for students to learn while playing with the earthquake simulation. Six groups of students shaked together! 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/da23e479-3750-48df-85fc-26c201038854)
 
@@ -95,7 +95,7 @@ In our recognition, this fits the purpose of STEAM so well.
 FDM enlightened our lives and realized many of our small dreams. This feeling is so soooo STEAM. 
 
 
-Sometimes, we just simply enjoy seeing it printing and/or printed. 
+Sometimes, we just simply enjoyed seeing it printing and/or printed. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/11963297-f1d9-4582-a5b8-e271faf7bad9)
 
