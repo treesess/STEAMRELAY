@@ -6,12 +6,14 @@
 
 ## 1  Introduction 
 
-Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. Service provided by Technician Martha and Technician Ronald.
+Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. 
+
+Service provided by Technician Martha and Technician Ronald from DCEE labs.
 
 
 ### 1.1 FDM/CNC works
 
-Martha started with some traditional lightweight woodworking and metalworking as she wanted to be able to manufacture and make ideas real. After she bought her first 3D printer, she was fully concentrated on FDM since this handy CNC is such low-cost and accessible to everyone. Heating the plastic and your imagination is the limit. 
+Martha started with some traditional lightweight woodworking and metalworking as she wanted to be able to manufacture and make ideas real. After she bought her first 3D printer, she was fully concentrated on FDM since this handy CNC is low-cost and accessible to everyone. Heating the plastic and your imagination is the limit. 
 
 In our recognition, this fits the purpose of STEAM so well. 
 
@@ -39,6 +41,11 @@ In our recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6a8ca4f7-c501-479b-a9e8-38c69107e826)
 
+- And Petra! (Model from the Internet, no longer available)
+
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6bcb9b19-9523-419e-a4fc-322d085e0fa5)
+
+
 - We printed intriguing artistic "tensegrity" structures ([Model by ALECS_FORM](https://cults3d.com/en/3d-model/art/tensegrity-arc)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/1c3cf493-99cb-4cb9-b429-65237e833994)
@@ -47,7 +54,7 @@ In our recognition, this fits the purpose of STEAM so well.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/cb168c73-379e-4227-933a-e0a094b5b48f)
 
-- We printed playful toys from the Internet and played with them like a kid:
+- We printed joyful toys from the Internet and played with them like a kid:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2e0432f1-b217-45a7-8f78-7169fb2e1309)
 
