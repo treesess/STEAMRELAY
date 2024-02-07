@@ -20,7 +20,7 @@ Firstly, the protrusions were made into handlers as shown below. The design is a
 
 **Figure 2**  Tailor-made handlers
 
-And also the extruded stands were protected by TPU (flexible material) printed covers.
+Also the extruded stands were protected by TPU (flexible material) printed covers.
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/a4197a1d-1b97-4a89-aa8a-499d8301fea7)
 
@@ -33,13 +33,18 @@ Secondly, spare wooden plates were found in the storage room and cut into exact 
 
 **Figure 4**  Wood plate shelves
 
-After what s done, it is already capable of serving. Still, i wish to see its potential fully developed since i like scavenging and recycling. 
+After what's done, it is already capable of serving. Still, i wish to see its potential fully developed since i like scavenging and recycling. 
 
 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/02fd0af2-700d-4838-9985-a38bd0403c54)
 
-**Figure 5** Later on all Mobile Shelves (MS) started to be number and labelled. 
+**Figure 5** Later on all Mobile Shelves (MS) started to be numbered and labelled. 
 
 
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6e7df31d-8f9d-491f-b602-2b89130575f6)
+
+**Figure 6** Recycled PVC pipe mount to make the filament rack
+
+Since this mobile rack is mainly serving the two VORON printers, the space in the middle level has been used to store filament spools with recycled PVC pipes as beams and printed mounts to make the beams stable. 
 
