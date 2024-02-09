@@ -13,9 +13,9 @@ Service provided by Technician Martha and Technician Ronald from DCEE labs.
 
 ### 1.1 FDM/CNC works
 
-Martha started with some traditional lightweight woodworking and metalworking as she wanted to be able to manufacture and make ideas real. After she bought her first 3D printer, she was fully concentrated on FDM since this handy CNC is low-cost and accessible to everyone. Heating the plastic and your imagination is the limit. 
+Martha started with some traditional lightweight woodworking and metalworking as she wanted to be able to manufacture and make ideas real. After she tried her first 3D printer, she fully concentrated on FDM (Fused Deposition Modeling) since this handy CNC is low-cost and accessible to everyone. 
 
-In our recognition, this fits the purpose of STEAM so well. 
+Heating the plastic and your imagination is the limit. In our recognition, this fits the purpose of STEAM so well. 
 
 - We used a 3D printing pen to draw cute ornaments: 
 
@@ -32,7 +32,7 @@ In our recognition, this fits the purpose of STEAM so well.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/843dc1f1-6ff0-4980-99ac-11429f95c7f7)
 
 
-- Also other Christmas ornaments([Model by Bemko](https://www.thingiverse.com/thing:4678220)):
+- Also other Christmas ornaments ([Model by Bemko](https://www.thingiverse.com/thing:4678220)):
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/20fddca0-c092-4b7a-8437-30ec7420ccf5)
 
@@ -89,7 +89,7 @@ In our recognition, this fits the purpose of STEAM so well.
 
 
 
-- And designed and made a low-cost shake table! (see project vShaker, by Martha ft. Ronald Lee. Based on [Klipper](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
+- And designed and made a low-cost shake table! (see project [vShaker](https://github.com/treesess/vShaker), by Martha ft. Ronald Lee. Based on [Klipper firmware](https://www.klipper3d.org/), one part from [VORONDESIGN](https://vorondesign.com/))
   
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0d8a56ec-94ef-4263-8294-83cc33d35536)
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/48728963-3c3e-4d20-9c1a-dadd21a69558)
@@ -108,9 +108,9 @@ Sometimes, we just simply enjoyed seeing it printing and/or printed.
 
 
 
-Not only we are capable of FDM 3D design and printing, Technician Ronald also can provide powerful CNC to enlarge our manufacturing capacity. 
+Not only we are capable of FDM 3D design and printing, Technician Ronald can also provide powerful CNC to enlarge our manufacturing capacity. 
 
-All these made me decide to do something to get more people around me to see how could FDM 3D printing make a difference in our lives today and, get your hands dirty, get STEAM. 
+All these made us decide to do something to get more people around me to see how could FDM 3D printing make a difference in our lives today and, get your hands dirty, get STEAM. 
 
 Again and again, my appreciation to the [VORON DESIGN Team](https://www.vorondesign.com/). Martha is still wearing my first Voron Cube print every day! 
 
@@ -146,7 +146,7 @@ To see more of STEAM RELAY worked cases and projects:
 
 ### 1.2 Craft and artwork
 
-And there are more than FDM that Martha would like to promote: 
+There are more than FDM that Martha would like to promote: 
 
 - Dried flower:
 
@@ -188,11 +188,11 @@ Then perhaps make your dear friend a card:
 
 ### 2.1 Apocynaceae
 
-Martha is obsessed with plants, especially the Apocynaceae family (夾竹桃科). At this stage, hoya carnosa is the thriving one in her place. 
+Martha is obsessed with plants, especially the Apocynaceae family (夾竹桃科). At this stage, Hoya Carnosa is the thriving one in her place. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/df4d2a09-e9ea-4b5a-9923-d5eff9f9ccd0)
 
-When hoya bloomed, with its velvet petals and sweet nectar, it could be a gift for your beloved. 
+When hoya bloomed, with its velvet petals, sweet nectar and scent, it could be a warm gift for your beloved. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/4e1a85fb-0339-4f23-89e7-122c48be2f95)
 
@@ -205,7 +205,11 @@ They are around us in the city and blooming sweet. Adenium obesum, Allamanda cat
 Of course, white oleander can't be missed. 
 
 
-### 2.2 More plants
+
+
+
+
+### 2.2 More plants and fotoing
 
 Sorry that her enthusiasm for Apocynaceae may be bits of biased to you. There are also pretty many other fascinating plants. You can always find your way to take care of them in your unique way:
 
@@ -217,7 +221,7 @@ In case you want to have an image taken from your lovely plants, we can also off
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2b51c445-8842-4e8e-96db-c13fce80e691)
 
-(Note that this photo has no post-process, we prefer a sense of raw)
+(Note that this photo has no post-process. Most of times we prefer a sense of raw)
 
 
 
