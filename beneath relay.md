@@ -2,9 +2,9 @@
 
 ![240210 relay - watermark - with boundary - small](https://github.com/treesess/STEAMRELAY/assets/20311124/0d809166-6478-4e63-aed5-b53842638338)
 
-This page is about stuff behind the scenes. Such as how it happened, what the idea is, and why doing it this way. Call it relay logos if you want. 
-
-Those stuff are also open to you. 
+- This page is only on behalf of personal views of Martha but not STEAM RELAY. 
+- This page is about stuff behind the scenes. Such as how it happened, what the idea is, and why doing it this way. Call it relay logos if you want. 
+- Those stuff are also open to you. 
 
 
 ## 0  What is relay
