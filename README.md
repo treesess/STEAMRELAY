@@ -148,16 +148,18 @@ To see more of STEAM RELAY worked cases and projects:
 
 There are more than FDM that Martha would like to promote: 
 
-- Dried flower:
+- Dried flower
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/8a584bf0-fb8f-40ce-8324-bf2a936adab4)
 
-- Insect collection:
+- Insect collection
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0db64400-f06b-4b3e-bf7c-1701b8712091)
 
 
 When talking about getting hands dirty, being close to nature is the same as STEAM. 
+
+- Copperplate
 
 And for the "A" in STEAM, Martha would be glad to introduce you to English Caligraphy (Copperplate) if you are interested: 
 
@@ -169,8 +171,11 @@ Then perhaps make your dear friend a card:
 
 
 
+- Origami
 
+Something Martha wants from a kid. Tried on and off but still didn't get it. **Should we do it together?**
 
+We have the materials (strictly square papers specific for origami). 
 
 
 
