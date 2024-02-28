@@ -1,7 +1,7 @@
 # STEAM RELAY
 
 
-![240228](https://lh3.googleusercontent.com/pw/AP1GczNvEdbDT72Jpy42Srz3MPD4ABlITIJMoOqH8aiGo-Wb_WXJRdHiZxq9y7piqmzdrTGultZEaBjas5hF8vqZUp7xFeeMVJAE8D0woRPk2EyeVHEb9EvsZ0S0CzPhpZfxrD_6Wts2pT4kvxw7rQe6ZwZDR2-tVX_ftFyagOXkhLh6YvpRj-BvUBV3f5n3Y22ZZD_B-c0WImAas9rojH8B6wRZm18gmKMlahPkPJiz_ta0UWy9tWeLpYTO-S98PPQlmqe0pCwDXF2xgp6cBPDxbLXTuQG18Pvub4iAfjcAtVorp7aB4YPo1KZLkvHMSODb31jbBr3Yg7wOUaZ5Rf7TpDNd1MWPifaCCkpn-CZZyD4wc-U8PoCu4jkNlTPMSuK5ohwvRBXDbnHshSKsqFYrjBXPBncM5Do7FZV9ocwV0tq81DQ9QrTBxJGniiZoroAiq8oQdg-1aabd4mpllKhit-h0YoXY0wlpWXW1mOG_NlbDZHpWpF0n8rWqcpjtahFNjMExF8MjJZ7rstTDjI682GANKqyWB5uSNZbYMppypWF7cINAt1iWA2YEcyagDvaC73kxiOBRI70VaF0AZRNEesJjtpnTihG-CaHSRciYvefl5iuYmHHAUZ4UG-E5nhD2jesKshbPQJA7DFMolRA6IdiNw3G44NU_Z1gQ_GKE8qQFFIGTOyM-_PBH1_kpIEtBEMwHgHgvoW7MZy0iliTjoRyC6y_iAV6qzu5mPe7KeSZPGAXHpJbQhjYh-iEgY7dFzvFwMikGiJ4d46ZDWfthtAeGxLcBqRlaADKm6BVDkaIoWl8Jb0OUSVyOy9qtq2IYfllBsRoXxxcXsXb_GJSb-AmrCIh6c5QFZnptGvSlWLUau_WKRYOQr6zxpRhXxnWg1iBg3xn0K2nNS-_H1e5Gl8iAYA=w451-h169-s-no?authuser=0)
+![240229](https://lh3.googleusercontent.com/pw/AP1GczOAzicUO-2apgR5GMGy72k9K5q6Xndd4VFQRKJbb0ag47pgE3z4XoOKao9tJakT-0nCdx66Wq7OOODrLXwRSmWeTQdN7PTB39ub1nwuh9JnyO899rQn8lws_1ZbyVmcNHFLE1vulMqGpBFA5VeM-aj1bw=w451-h169-s-no?authuser=0)
 
 
 
@@ -10,7 +10,8 @@
 
 ## 1  Introduction 
 
-Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. 
+Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing i![image](https://github.com/treesess/STEAMRELAY/assets/20311124/187752c9-0888-46fb-8470-c2130343e704)
+n our daily work and life. 
 
 Service provided by Technician Martha and Technician Ronald from DCEE labs.
 
