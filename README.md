@@ -10,8 +10,7 @@
 
 ## 1  Introduction 
 
-Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing i![image](https://github.com/treesess/STEAMRELAY/assets/20311124/187752c9-0888-46fb-8470-c2130343e704)
-n our daily work and life. 
+Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. 
 
 Service provided by Technician Martha and Technician Ronald from DCEE labs.
 
