@@ -19,7 +19,7 @@ Service provided by Technician Martha and Technician Ronald from DCEE labs.
 
 Martha started with some traditional lightweight woodworking and metalworking as she wanted to be able to manufacture and make ideas real. After she tried her first 3D printer, she fully concentrated on FDM (Fused Deposition Modeling) since this handy CNC is low-cost and accessible to everyone. 
 
-Heating the plastic and your imagination is the limit. In our recognition, this fits the purpose of STEAM so well. 
+Heating the plastic and your imagination is the limit (but hey, FDM is one kind of 3D printing tech of one kind of manufacturing approach, so have a sense of reality and be sure that you know FDM can't literally print everything). In our recognition, this fits the purpose of STEAM so well. 
 
 - We used a 3D printing pen to draw cute ornaments: 
 
