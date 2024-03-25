@@ -12,7 +12,7 @@
 
 Versatile and resourceful tech support for educational STEAM purposes as well as practical ones. To envision what can we do with FDM 3D printing in our daily work and life. 
 
-Service provided by Technician Martha and Technician Ronald from DCEE labs.
+Service provided by Technician Martha from DCEE labs.
 
 
 ### 1.1 FDM/CNC works
@@ -98,7 +98,7 @@ Heating the plastic and your imagination is the limit (but hey, FDM is one kind 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0d8a56ec-94ef-4263-8294-83cc33d35536)
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/48728963-3c3e-4d20-9c1a-dadd21a69558)
 
-- And even an extended one for holding taster programmes for students to learn while playing with the earthquake simulation. Six groups of students shaked together! 
+- And even an extended one for holding taster programmes for students to learn while playing with the earthquake simulation. Six groups of students shaking together! 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/da23e479-3750-48df-85fc-26c201038854)
 
@@ -111,8 +111,6 @@ Sometimes, we just simply enjoyed seeing it printing and/or printed.
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/11963297-f1d9-4582-a5b8-e271faf7bad9)
 
 
-
-Not only we are capable of FDM 3D design and printing, Technician Ronald can also provide powerful CNC to enlarge our manufacturing capacity. 
 
 All these made us decide to do something to get more people around me to see how could FDM 3D printing make a difference in our lives today and, get your hands dirty, get STEAM. 
 
