@@ -65,7 +65,7 @@ FDM is quick. FDM is cheap. FDM is "almighty".
 
 Yes, for us plastic pollution is much more eye-catching. At the beginning of a discussion of FDM, Martha would address that using FDM technology surely means the consumption of plastic. 
 
-But it doesn't mean FDM must exacerbate the environmental problems. Put it this way, know your enemy. Yes, if we want to stop plastics from destroying mother Earth, we need to know better about it first. 
+But it doesn't mean FDM must exacerbate the environmental problems. Put it this way, know your enemy. Yes, if we want to stop plastics from destroying Mother Earth, we need to know better about it first. And people like [ecorpint](https://ecoprint.site/) are doing this. 
 
 
 ### 2.2  Utility of plastics
