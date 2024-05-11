@@ -293,15 +293,15 @@ Ferns, names she still doesn't know.
 
 |Name	|Model						|Speed	|Quality	|Volume		|Status				|
 |---	|---						|---	|---		|---		|---				|
-|fdm1	| Ender 3 V2 (modified)				| slow	| 6/10		| 220x220x250	| ⚫ to be on Klipper	|
-|fdm2	| Ender 3 Pro (second-hand, modified) 		| slow	| 6/10		| 200x200x220	| ⚫ to be spindle		|
+|fdm1	| Ender 3 V2 (modified)				| slow	| 6/10		| 220x220x250	| 🟢 Marlin	|
+|fdm2	| Ender 3 Pro (second-hand, modified) 		| slow	| 6/10		| 200x200x220	| 🟢 spindle		|
 |fdm3	| Ender 3 S1Pro (modified to high power laser)	| -	| -		| 200x200x270	| 🟢 ready		|
 |fdm4	| CR10s Pro (second-hand, modified to concrete printer)		| slow	| -		| 300x300x270	| 🟢 almost ready	|
 |fdm5	| VORON 2.4r2 (DIY, V2.5343)			| fast	| 9/10		| 350x350x340	| 🟢 ready			|
 |fdm6	| VORON 0.2 (DIY)				| fast	| 7/10		| 120x120x120	| 🟢 ready			|
 |fdm7	| VORON 2.4r2 (DIY)				| fast	| 9/10		| 300x300x300	| 🟢 ready 			|
 
-### 3.2 Machinery for Woodworking, metalworking, etc.
+### 3.2 Machinery for Woodworking, Metalworking, etc.
 
 |Name			|Qty.		|Usage					|
 |---			|---		|---					|
@@ -312,7 +312,7 @@ Ferns, names she still doesn't know.
 |Grinding and polishing tools	|	|					|
 ...
 
-### 3.3 Crafting and Artwork tools
+### 3.3 Crafting and Artwork Tools
 
 |Name				|Qty.			|Description and Usage								|
 |---				|---			|---										|
