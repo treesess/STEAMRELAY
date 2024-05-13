@@ -30,6 +30,8 @@ So i only needed to draw a hex shaft and a mount on it, two parts only, printed 
 
 Made four of them and installed them without hesitation: 
 
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/fe94151c-088b-486a-9839-f25517da41a7)
+
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/5b5bbb4c-92db-479a-b979-d760df40c408)
 
 This is the PC they serve: 
