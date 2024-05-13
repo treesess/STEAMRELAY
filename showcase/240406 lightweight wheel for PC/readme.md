@@ -1,7 +1,7 @@
 
 Invented the wheel. i know it looks stupid to re-invent a wheel. So allow me to explain why i did this design: 
 
-	a) i've got the need to move a PC in and out several times a month, to use the USB ports behind it (i use the front ports more often); 
+	a) i've got the need to move a PC in and out several times per month, to use the USB ports behind it (i use the front ports more often); 
 
 	b) i didn't have a good fit wheel for this need. 
 
