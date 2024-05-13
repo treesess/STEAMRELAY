@@ -1,11 +1,11 @@
 
-This is the most meaningful job i've done this year so far. 
+This is the most meaningful thing i've done for others this year so far. 
 
-We went to a high school bringing stuff for students. The purpose of this trip was to get high school students interested in engineering. A non-profit trip without propaganda but only showed the logo of our institute. 
+We went to a high school bringing stuff for students. The purpose of this trip was to get high school students interested in engineering. A non-profit trip without propaganda, only showed the logo of our institute. 
 
 A tenon puzzle and a catapult model were chosen to be the gifts for the students. They are expected to have fun assembling the tenon puzzle (榫卯梅花鎖) and the catapult. 
 
-Credits to the authors first: 
+**Credits to the authors of designs first:**
 
 - Tenon Puzzle: https://makerworld.com/en/models/401095#profileId-302599
 - Catapult: https://www.printables.com/en/model/211679-catapult-card/
