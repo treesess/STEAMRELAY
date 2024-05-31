@@ -40,7 +40,7 @@ And after 2 hours time removing the outer supports as possible and repaired the 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/b61b53af-e148-4871-898e-685c5e1d31fb)
 
-(Note that the top wasn't finished not because of printer error but running out of filament. Yes, my printer has no detection on filament supply. )
+(Note that the top wasn't finished not because of printer error but running out of filament. Yes, my printer has no detection on filament supply.)
 
 And these were the outer supports removed: 
 
