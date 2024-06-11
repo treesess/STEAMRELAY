@@ -12,7 +12,7 @@ So there are 3 parts of this side project:
 
 Did measurements first: 
 
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0d99315b-c9ea-4b30-8884-0d70e22ec27a)
+![image](https://github.com/treesess/STEAMRELAY/assets/20311124/358815bd-936b-4b26-a401-acbea8ea1d9f)
 
 Then came up with some plans to serve as the supports: 
 
