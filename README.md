@@ -15,7 +15,7 @@ Versatile and resourceful tech support for educational STEAM purposes as well as
 Service provided by Technician Martha from DCEE labs.
 
 
-### 1.1 FDM/CNC works
+### 1.1 FDM works
 
 Martha started with some traditional lightweight woodworking and metalworking as she wanted to be able to manufacture and make ideas real. After she tried her first 3D printer, she fully concentrated on FDM (Fused Deposition Modeling) since this handy CNC is low-cost and accessible to everyone. 
 
