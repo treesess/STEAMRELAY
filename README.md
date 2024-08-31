@@ -4,7 +4,7 @@
 ![240229](https://lh3.googleusercontent.com/pw/AP1GczOAzicUO-2apgR5GMGy72k9K5q6Xndd4VFQRKJbb0ag47pgE3z4XoOKao9tJakT-0nCdx66Wq7OOODrLXwRSmWeTQdN7PTB39ub1nwuh9JnyO899rQn8lws_1ZbyVmcNHFLE1vulMqGpBFA5VeM-aj1bw=w451-h169-s-no?authuser=0)
 
 
-
+*since 2023*
 
 *(More content sorting and uploading in progress)*
 
@@ -297,7 +297,7 @@ Ferns, names she still doesn't know.
 |fdm1	| Ender 3 V2 (modified)				| slow	| 7/10		| 220x220x250	| 🟢 Marlin	|
 |fdm2	| Ender 3 Pro (second-hand, modified) 		| slow	| 6/10		| 200x200x220	| 🟢 spindle		|
 |fdm3	| Ender 3 S1Pro (modified to high power laser)	| -	| -		| 200x200x270	| 🟢 ready		|
-|fdm4	| CR10s Pro (second-hand, modified to concrete printer)		| slow	| -		| 300x300x270	| 🟢 almost ready	|
+|fdm4	| CR10s Pro (second-hand, modified to concrete printer)		| slow	| -		| 300x300x300	| 🟢 ready	|
 |fdm5	| VORON 2.4r2 (DIY, V2.5343)			| fast	| 8/10		| 350x350x340	| 🟢 ready			|
 |fdm6	| VORON 0.2 (DIY)				| fast	| 7~10/10		| 120x120x120	| 🟢 ready			|
 |fdm7	| VORON 2.4r2 (DIY)				| fast	| 9/10		| 300x300x300	| 🟢 ready 			|
