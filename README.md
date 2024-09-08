@@ -26,6 +26,9 @@ Heating the plastic and your imagination is the limit (but hey, FDM is one kind 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/d4bd7029-b759-4321-a6e3-0c08feb5a99a)
 
+- We used TPU flexible material to print smartphone case (proven quite durable):
+
+ ![image](https://github.com/user-attachments/assets/9364084f-de8d-4397-935c-271c468587a1)
 
 
 - We used FDM to make our favorite doll ([Model by JIMMY_IW](https://cults3d.com/en/3d-model/game/ghost-in-the-shell-tachikoma)):
