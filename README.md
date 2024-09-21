@@ -211,6 +211,8 @@ Martha is obsessed with plants, especially the Apocynaceae family (夾竹桃科)
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/df4d2a09-e9ea-4b5a-9923-d5eff9f9ccd0)
 
+
+
 When hoya bloomed, with its velvet petals, sweet nectar and scent, it could be a warm gift for your beloved. 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/4e1a85fb-0339-4f23-89e7-122c48be2f95)
@@ -233,6 +235,13 @@ Of course, white oleander can't be missed.
 Sorry that her enthusiasm for Apocynaceae may be bits of biased to you. There are also pretty many other fascinating plants. You can always find your way to take care of them in your unique way:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/752ef582-47d2-4687-8565-a7340334bc3a)
+
+Indulge Martha for a bit of personal love, roots in water: 
+
+![image](https://github.com/user-attachments/assets/f743a914-6826-4580-aff6-048e8ec5339b)
+
+
+
 
 
 
