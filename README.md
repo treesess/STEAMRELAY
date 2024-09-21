@@ -66,6 +66,14 @@ Heating the plastic and your imagination is the limit (but hey, FDM is one kind 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/2e0432f1-b217-45a7-8f78-7169fb2e1309)
 
+- Made some soft and tender lights (model source to be added): 
+
+![image](https://github.com/user-attachments/assets/9e78b66b-bd54-47ee-acf7-55d0ce8cd26d)
+
+- Made kind of light art ([Model by lackaffchen](https://makerworld.com/en/models/633291)):
+
+![image](https://github.com/user-attachments/assets/bb9b088a-b60b-47de-ad49-721cb84b7e62)
+
 
 - We made quick tools for alignment and made the installation work much faster and more precise:
 
