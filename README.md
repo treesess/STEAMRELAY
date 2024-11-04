@@ -49,7 +49,7 @@ Heating the plastic and your imagination is the limit (but hey, FDM is one kind 
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6a8ca4f7-c501-479b-a9e8-38c69107e826)
 
-- And Petra! (Model from the Internet, no longer available)
+- And Petra! ([Model by MiniWorld3D](https://makerworld.com/en/models/419383))
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/6bcb9b19-9523-419e-a4fc-322d085e0fa5)
 
