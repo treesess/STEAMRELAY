@@ -12,7 +12,7 @@ He used a palm sander to do the vibration job. That's brilliant.
 
 i don't have a palm sander, but a hand drill can do the same by grasping any mass-eccentric object. 
 
-Here comes the CAD of a connection between two bolts: 
+Here comes the CAD of a connection between two bolts (an M8 and an M10 by my hand): 
 
 ![image](https://github.com/user-attachments/assets/98e7e853-b257-42f3-8a77-55617f18c06f)
 
@@ -26,3 +26,4 @@ worked like a charm. difficulty solved.
 
 i tried it on the recent molding of a small object, it was so pretty efficient that the excessive liquid leaked into the void infill eara of printed mold! 
 
+![image](https://github.com/user-attachments/assets/b0443539-5d9b-4c7c-94fd-53633b503c4a)
