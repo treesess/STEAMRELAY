@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/a3133e39-bdab-44a2-81e1-5200c91cce55)
+
+
 it's not a new thing to print a mold then cast fresh concrete in to form a certain shape, such as a planter pot commonly seen. 
 
 but what if we want very detailed with complicated geometry data which the traditional molding way won't work?
