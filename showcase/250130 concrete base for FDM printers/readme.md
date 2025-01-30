@@ -26,7 +26,7 @@ while the slab for fdm6 (VORON0.2) is much easy:
 
 ![image](https://github.com/user-attachments/assets/de33ffaf-d1df-41b8-b2eb-6e298580475a)
 
-next day, demolded them. quality good enough: 
+next day, demolded them. quality good enough (surely better than Stefan's, lol): 
 
 ![image](https://github.com/user-attachments/assets/ebf03804-5a61-47b7-b401-6d992c62dd11)
 
