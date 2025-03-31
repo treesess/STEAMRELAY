@@ -14,4 +14,4 @@ it is long.
 
 -----
 
-STEAM RELAY also provides basic post process and even fine sanding works and coloring and finishing services. 
+STEAM RELAY provides minimum post processes such as filing, sanding, polishing and easy coloring. 
