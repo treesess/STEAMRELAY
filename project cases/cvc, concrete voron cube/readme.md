@@ -17,3 +17,16 @@ even benchy (200% size but still cracked. maybe try more later):
 and white cement as well. but well, i wasn't doing good enough and it cracked lots. 
 
 ![image](https://github.com/user-attachments/assets/760b7b3a-466f-4ee9-9688-09c878a5f380)
+
+
+-------- some new conditions below --------
+
+more benchies were made. though cracked as usual, but had some improvements i think.
+
+![image](https://github.com/user-attachments/assets/f74e5f48-119c-469d-a53f-cdbe03656ebd)
+
+for the scaled up benchy, it's near. 
+
+![image](https://github.com/user-attachments/assets/e790ad9e-d712-4ccb-88a0-855f4005484e)
+
+only the top chimney cracked. 
