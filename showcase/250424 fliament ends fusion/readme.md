@@ -22,3 +22,8 @@ more than saving filament, fusion TPU can achieve a loop for many applications, 
 ![image](https://github.com/user-attachments/assets/7946c032-a362-43b1-a2a4-56bac148a687)
 
 TPU is a bit harder to fusion, but with a bit more patience, you can do it. The fused one has at least 90% of the tensile strength and the ability to stretch. 
+
+Before learning how to fuse TPU together, i used such a small device as below for the connection:
+
+![image](https://github.com/user-attachments/assets/08039308-bbbb-4497-b86f-9f9726d98492)
+
