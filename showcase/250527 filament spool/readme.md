@@ -13,3 +13,5 @@ and printed in 4 hours:
 it has a proper tolerance and uses 3x 35 mm M3 screws to fastened to two parts. 
 
 robust, quick, and cheap. 
+
+but, i forgot to add some holes for the end tip of the filament... well, not a big problem. 
