@@ -29,3 +29,11 @@ see, i even added the cooling fan for the EC... well, still, this casing is a bi
 <img width="374" height="340" alt="image" src="https://github.com/user-attachments/assets/bf391d8e-bac8-4db4-a429-51f7d39d9f17" />
 
 anyway... it's well done. 
+
+
+
+---------------
+
+btw, the proper product (melting pot) looks like this below (or much larger). well, yes it's a bit too large for our lab/project. 
+
+<img width="337" height="364" alt="image" src="https://github.com/user-attachments/assets/fafc5e21-d262-4ecd-89ab-1679daf33b7c" />
