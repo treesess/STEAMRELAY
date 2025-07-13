@@ -7,4 +7,6 @@ so the white chunk of alignment helper as accessories were printed.
 
 the user spoke highly of the alignment helper. 
 
+<img width="455" height="357" alt="image" src="https://github.com/user-attachments/assets/9a0d57d8-c730-470d-8929-c40fd06a52b7" />
+
 Note that those chunks look like just simple cylinders with holes, but actually carefully calibrated to make sure the diameters are the excact same with the steel ones. To garantee the accuracy of the capping device. 
