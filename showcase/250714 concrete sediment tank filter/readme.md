@@ -21,6 +21,8 @@ Here are the parameters for your info:
 <img width="495" height="449" alt="image" src="https://github.com/user-attachments/assets/caf89506-2828-41be-9be6-a775e62dd925" />
 <img width="434" height="260" alt="image" src="https://github.com/user-attachments/assets/8871ca84-839f-40eb-a8ea-b7a824e8737f" />
 
+Note that it isn't just set the top and bottom layers to zeros. You will need to adjust the anchor setting to make sure it's strongly attached to the frame. Also you need to adjust the linewidth so that the web itself is strong enough. 
+
 In the end we made two, the later one is denser: 
 
 <img width="465" height="313" alt="image" src="https://github.com/user-attachments/assets/7f388d7e-e803-46cd-a4ff-ba012eceadcb" />
