@@ -319,10 +319,11 @@ Ferns, names she still doesn't know.
 |fdm3	| Ender 3 S1Pro (modified to high power laser)	| -	| -		| 200x200x270	| 🟢 ready		|
 |fdm4	| CR10s Pro (second-hand, modified to concrete printer)		| slow	| -		| 300x300x300	| 🟢 ready	|
 |fdm5	| VORON 2.4r2 (DIY, V2.5343)			| fast	| 8/10		| 350x350x340	| 🟢 ready			|
-|fdm6	| VORON 0.2 (DIY)				| fast	| 7~10/10		| 120x120x120	| 🟢 ready			|
-|fdm7	| VORON 2.4r2 (DIY)				| fast	| 9/10		| 300x300x300	| 🟢 ready 			|
+|fdm6	| VORON 0.2 (DIY)				| fast	| 8/10		| 120x120x120	| 🟢 ready			|
+|fdm7	| VORON 2.4r2 (DIY)				| fast	| 8/10		| 300x300x290	| 🟢 ready 			|
+|fdm8	| VORON 0.2 (DIY)				| fast	| 8/10		| 120x120x120	| 🟢 ready			|
 
-(fdm6 installed with E3D Revo Voron nozzles from 0.25, 0.4 0.6 to 0.8 mm dia.)
+(fdm6/fdm8 shares E3D Revo Voron nozzles from 0.25, 0.4 0.6 to 0.8 mm dia.)
 
 ### 3.2 Machinery for Woodworking, Metalworking, etc.
 
