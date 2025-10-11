@@ -8,6 +8,6 @@ by printing such a clamp the problem was solved.
 
 <img width="325" height="563" alt="image" src="https://github.com/user-attachments/assets/ae812a78-03a7-4965-8d4d-b2b3d6790885" />
 
-you know, a) it was surely not a good idea to rip it all off, b) it hurt! seriously! c) we would be moving out of here in one or two years, no need to change the door. 
+you know, a) when you passed by, it hurt! seriously! and b) it was surely not a good idea to rip it all off; c) we would be moving out of here in one or two years so no need to change the door; d) no glue can fix this; e) it hurt! seriously!
 
-so, as far as i considered, this was the best we can do about it. 
+so, as far as i considered, this was the best we could do about it. 
