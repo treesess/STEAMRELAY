@@ -317,13 +317,13 @@ Ferns, names she still doesn't know.
 |fdm1	| Ender 3 V2 (modified)				| slow	| 7/10		| 220x220x250	| 🟢 Marlin	|
 |fdm2	| Ender 3 Pro (second-hand, modified) 		| slow	| 6/10		| 200x200x220	| 🟢 spindle		|
 |fdm3	| Ender 3 S1Pro (modified to high power laser)	| -	| -		| 200x200x270	| 🟢 ready		|
-|fdm4	| CR10s Pro (second-hand, modified to concrete printer)		| slow	| -		| 300x300x300	| 🟢 ready	|
+|fdm4	| CR10s Pro (second-hand, modified to [vcp](https://github.com/treesess/desktop3dpc))		| slow	| -		| 300x300x300	| 🟢 ready	|
 |fdm5	| VORON 2.4r2 (DIY, V2.5343)			| fast	| 8/10		| 350x350x340	| 🟢 ready			|
-|fdm6	| VORON 0.2 (DIY)				| fast	| 8/10		| 120x120x120	| 🟢 ready			|
+|fdm6	| VORON 0.2 (DIY)				| fast	| 7/10		| 120x120x120	| 🟢 ready			|
 |fdm7	| VORON 2.4r2 (DIY)				| fast	| 8/10		| 300x300x290	| 🟢 ready 			|
-|fdm8	| VORON 0.2 (DIY)				| fast	| 8/10		| 120x120x120	| 🟢 ready			|
+|fdm8	| VORON 0.2 (DIY, V0.4228)				| fast	| 9/10		| 120x120x120	| 🟢 ready			|
 
-(fdm6/fdm8 shares E3D Revo Voron nozzles from 0.25, 0.4 0.6 to 0.8 mm dia.)
+(fdm6/fdm8 shares E3D Revo Voron nozzles from 0.2, 0.25, 0.4, 0.6 to 0.8 mm dia.)
 
 ### 3.2 Machinery for Woodworking, Metalworking, etc.
 
@@ -336,16 +336,41 @@ Ferns, names she still doesn't know.
 |Grinding and polishing tools	|	|					|
 ...
 
-### 3.3 Crafting and Artwork Tools
+
+
+
+### 3.3 Tools for heat and electronics, etc.
+
+|Name			|Qty.		|Usage					|
+|---			|---		|---					|
+|heat gun		|2		|...	|
+|generic soldering iron		|4+		|...	|
+|T80 soldering iron|1 |...|
+|hot melt gun (7/11 mm) | 2 |...|
+|Desoldering iron		|	1	|...	|
+|DCDC module| 5+ |... |
+|ACDC 5/12/24 V PSU| 7+ |...|
+|xh2.5 connectors (2/3/4/5 pin)| ample |...|
+|heat tube| ample|...|
+|SSR wire 22 awg| ample |...|
+|all kinds of adhesives | ample |...|
+...
+
+
+
+### 3.4 Crafting and Artwork Tools
 
 |Name				|Qty.			|Description and Usage								|
 |---				|---			|---										|
 |Copperplate pen		|2 pcs.			|English calligraphy								|
 |Copperplate nibs		|6 pcs.			|English calligraphy								|
-|Epoxy resin			|est. 1 L		| 										|
-|Silica gel			|-			|Dried flower, insect specimen making 						|
-|Fine forceps, superfine forceps, brush, pin, etc.	|-		|Insect collection						|
+|Epoxy resin			|est. 1 L		| 		Dried flower, insect specimen making								|
+|LSR shore 10, 20, 30			|-			| 		make of molds, make of buffer			|
+|Fine forceps, superfine forceps, brush, pin, etc.	|-		|Insect collection, etc.					|
 |Camera (Canon 6D2)		|1			|foto taking									|
-|lens				|3+			|ditto, including Canon 100 Macro, 50, 17-40					|			
+|lens				|3+			|ditto, including Canon 100 Macro, 50, 17-40					|		
+|tripod | 3 | foto taking, generic stand, etc. |
+|paints | lots | painting |
+
 ...
 
