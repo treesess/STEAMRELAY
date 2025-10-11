@@ -3,7 +3,12 @@ in August 2025, epoxy resin and LSR (liquid silicon rubber) were tried a lot. ha
 
 in the middle of trying resin and LSR, vacuum seemed needed for de-bubble of the fresh mixture. 
 
-so this was made:
+so started with this: 
+
+<img width="910" height="551" alt="image" src="https://github.com/user-attachments/assets/994f482e-70ef-4f47-b26d-b27cd87e7afc" />
+
+
+became this:
 
 <img width="892" height="759" alt="image" src="https://github.com/user-attachments/assets/9dfaaa29-ed26-4745-b245-7522fd9bcf55" />
 
