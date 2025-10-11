@@ -1,4 +1,4 @@
-this was stupid. read this as lession learnt maybe. 
+this was stupid. read this as lesson learnt maybe. 
 
 i was just tired of button batteries and wanted to make some dummy ones to use DC power supply. for the dial gauges. 
 
