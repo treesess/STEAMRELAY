@@ -13,3 +13,8 @@ it worked of course. can choose to run 1~4 motors in parallel for different suct
 
 
 it's just... well, i'd be quiet about why i m not using vacuum for resin and LSR right now (okay, it was bumping that traumitized me). 
+
+hey, good results still came out without the vacuum. 
+
+<img width="979" height="732" alt="image" src="https://github.com/user-attachments/assets/02acfdda-324f-4b44-abcd-09be573cc00c" />
+
