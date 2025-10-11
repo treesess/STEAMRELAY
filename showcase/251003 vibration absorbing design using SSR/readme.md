@@ -13,11 +13,12 @@ just do it.
 
 <img width="982" height="544" alt="image" src="https://github.com/user-attachments/assets/6c4f7451-ffa2-4b7a-8f3a-8f04d350f7f5" />
 
-<img width="537" height="505" alt="image" src="https://github.com/user-attachments/assets/635d105f-31bf-43de-ae20-cac6f5f6fd59" />
 
 anyway i tried. 
 
 <img width="538" height="539" alt="image" src="https://github.com/user-attachments/assets/e45a7d89-68ce-4972-a87d-4bd53de03eef" />
+
+<img width="537" height="505" alt="image" src="https://github.com/user-attachments/assets/635d105f-31bf-43de-ae20-cac6f5f6fd59" />
 
 not that bad. the vibration of printer frame was actually reduced a lot, and the flowrate thus became much stable (if the vibration of frame is coupled with the toolhead, the actual vibration on the nozzle would be unstable, and the bed would be shaking as well, which would be a bad bad thing). 
 
