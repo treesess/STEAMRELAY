@@ -11,4 +11,6 @@ if without the SSR pad, believe me, the success rate would be much lower if you 
 
 with the SSR pad, even when resin accidentally leaked out, it was easy to manage and recover a good state of wanted resin on the flower surfaces. 
 
+and, resin never sticks to SSR, so pretty easy to clean up. protect your desk from being ruined by resin works. 
+
 i searched around and asked LLM, seemed like no one tried this before. but it was pretty interesting, wasn't it?
