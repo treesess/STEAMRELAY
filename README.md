@@ -166,13 +166,6 @@ There are more than FDM that Martha would like to promote:
 
 ![image](https://github.com/treesess/STEAMRELAY/assets/20311124/8a584bf0-fb8f-40ce-8324-bf2a936adab4)
 
-- Insect collection
-
-![image](https://github.com/treesess/STEAMRELAY/assets/20311124/0db64400-f06b-4b3e-bf7c-1701b8712091)
-
-
-When talking about getting hands dirty, being close to nature is the same as STEAM. 
-
 - Copperplate
 
 And for the "A" in STEAM, Martha would be glad to introduce you to English Caligraphy (Copperplate) if you are interested: 
