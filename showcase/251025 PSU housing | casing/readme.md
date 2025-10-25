@@ -1,4 +1,4 @@
-simple half open housing for the PSU. 
+simple half open housing for the PSU. this PSU serves as a mobile power supply for all kinds of tests around the workplace. 
 
 <img width="453" height="398" alt="image" src="https://github.com/user-attachments/assets/a9673b50-04b9-490d-a6ae-51a68bd983c8" />
 
