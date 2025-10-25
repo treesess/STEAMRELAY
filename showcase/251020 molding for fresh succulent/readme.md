@@ -1,4 +1,14 @@
-<img width="505" height="585" alt="image" src="https://github.com/user-attachments/assets/fabd972d-18c1-4d97-a360-b70e129ce514" />using LSR (liquid silicone rubber) casting can have you every single detail of the cute succulent. before getting there, you should do preps to make sure it would work. 
+this is a kinda method introduction how to make SSR (solid silicone rubber) mold for a living plant. 
+
+it is a challenging task. **if you have no experience with molding, you are advised to start with some easy ones first.**
+
+
+-----------------------
+
+
+using LSR (liquid silicone rubber) casting can have you every single detail of the cute succulent. before getting there, you should do preps to make sure it would work. 
+
+choose shore 20 or softer LSR (i say this because i made it with shore 20 but it's still not soft enough). but note that if it's too soft, it's not gonna be repeatedly used for many times. my shore 20 SSR mold lost several details after 5 casts of die stone (super fine dental gypsum).
 
 <img width="501" height="559" alt="image" src="https://github.com/user-attachments/assets/0003b31d-dd01-443c-9c20-bcecfe9d83ec" />
 
@@ -28,4 +38,4 @@ for demolding, all i can say is, gentle, gentler, and a bit more careful. it's o
 
 <img width="720" height="716" alt="image" src="https://github.com/user-attachments/assets/140ff2b1-2529-4800-a5ff-1d610dd844da" />
 
-this is the one i made. of course it's hard to imagine why it's like this. feeling weird? you can only cast some resin/plaster to find out. 
+this is the one i made. of course it's hard to imagine why it's like this. feeling weird? you can only cast some resin/gypsum to find out. 
