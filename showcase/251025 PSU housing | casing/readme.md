@@ -1,4 +1,4 @@
-simple half open housing for the PSU. this PSU serves as a mobile power supply for all kinds of tests around the workplace. 
+simple half open housing for the PSU. this PSU serves as a mobile power supply for all kinds of tests around the workplace. it'd be unsafe if the AC wires are exposed. better use a cover. 
 
 <img width="453" height="398" alt="image" src="https://github.com/user-attachments/assets/a9673b50-04b9-490d-a6ae-51a68bd983c8" />
 
