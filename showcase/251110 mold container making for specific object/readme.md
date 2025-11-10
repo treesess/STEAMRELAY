@@ -37,6 +37,8 @@ To offset 5 to 10 mm is good i think. do it as you like.
 
 <img width="387" height="499" alt="image" src="https://github.com/user-attachments/assets/9fb7c9ba-3f02-407a-b571-ee5890065ad0" />
 
+**Do double check the sliced line model to confirm there is no overhangs since overhangs may cause LSR leakage which you definitely don't want to see!**
+
 8) Go print it out and cast LSR in
 
 <img width="622" height="474" alt="image" src="https://github.com/user-attachments/assets/2ae5b173-87ca-42e6-a799-5afe400ee1ef" />
