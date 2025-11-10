@@ -12,3 +12,8 @@ The main purpose is to convey the message that FDM is handy and you can use it e
 
 
 *since 2023*
+
+
+(this homepage README.MD is under reconstruction at the moment.)
+
+--------
