@@ -23,3 +23,8 @@ as you can see, the printed pink ones can produce smaller, better distributed bu
 tbh i didn't expect the printed diffuser can be this good. it's just a side-project-trysome to see how far could it go. turned out great. 
 
 note that it's not some kind of CAD drawings to make small holes, it's the CAM slicing trick, no walls and 95% infill (line pattern). 
+
+
+--------------------
+
+still there is one thing still bugging me, i can't replicate the good diffusing with PETG filament. maybe it's because PETG is too sticky. if you know how to use PETG to print a good diffuser, please let me know! thanks ahead!
