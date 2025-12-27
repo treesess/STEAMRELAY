@@ -1,7 +1,10 @@
 
 
+the main purpose is to have a quiet and low power water pump pumping air into a mini aquarium. since the aquarium is small, if the output of the pump is too large or the bubble too large, the water and creatures in the water might be blown up. so a dcdc or pwm was needed. then it's about a diffuser to generate small, well distributed air bubble in water. 
 
-the result was good. 
+
+
+the test result was good. 
 
 <img width="627" height="436" alt="image" src="https://github.com/user-attachments/assets/b188fa45-de94-4c2a-b78b-81d57df6301f" />
 
@@ -20,7 +23,7 @@ not many things, just a hollow chamber.
 
 as you can see, the printed pink ones can produce smaller, better distributed bubbles, and is smaller. 
 
-tbh i didn't expect the printed diffuser can be this good. it's just a side-project-trysome to see how far could it go. turned out great. 
+tbh i didn't expect the printed diffuser can be this good. this is a side-project-trysome to see how far it could go. turned out great. 
 
 note that it's not some kind of CAD drawings to make small holes, it's the CAM slicing trick, no walls and 95% infill (line pattern). 
 
