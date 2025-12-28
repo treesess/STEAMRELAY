@@ -17,3 +17,13 @@ The main purpose is to convey the message that FDM is handy and you can use it e
 (this homepage README.MD is under reconstruction at the moment.)
 
 --------
+
+Highlight cases:
+
+quick fix/repair:
+
+in research projects:
+
+cutes: 
+
+<img width="530" height="405" alt="image" src="https://github.com/user-attachments/assets/c3176c1f-2d22-44b1-8cfc-65e38982da9b" />
