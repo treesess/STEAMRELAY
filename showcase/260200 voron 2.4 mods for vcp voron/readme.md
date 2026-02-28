@@ -29,6 +29,8 @@ a hug cover with corner brace.
 
 <img width="423" height="265" alt="image" src="https://github.com/user-attachments/assets/d7687f69-0d0b-436f-a38a-09c00fd8faf1" />
 
-a small section of the cover used on the bottom side of the extrusion A can serve as motor cable holder, to hide the motor cable easily without exposure. 
+a small section of the cover printed with TPU used on the bottom side of the extrusion A can serve as motor cable holder, to protect the motor cable without any exposure. 
+
+the long one can cover the upside of the extrusions to avoid stain by cementitious. 
 
 5) 
