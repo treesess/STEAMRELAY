@@ -10,4 +10,6 @@ this is the model of adaptor:
 
 <img width="423" height="374" alt="image" src="https://github.com/user-attachments/assets/4cfca979-a539-464f-976d-c32abe6e7c87" />
 
-photo of assembled and walking one will be updated later. 
+photo of assembled: 
+
+<img width="723" height="494" alt="image" src="https://github.com/user-attachments/assets/19c77453-25fd-49c1-a757-eba3dcf9a3ab" />
