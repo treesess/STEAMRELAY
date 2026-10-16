@@ -12,3 +12,5 @@ then is the dispenser:
 10+ cups and be stacked up straight up and easily fetched out from the bottom
 
 <img width="335" height="530" alt="image" src="https://github.com/user-attachments/assets/83967c1a-4be5-4496-a76a-f578ef078932" />
+
+<img width="496" height="685" alt="image" src="https://github.com/user-attachments/assets/a83d7e5c-1728-4f0d-a80b-ed7da29f6a21" />
